@@ -1,0 +1,74 @@
+*, *::after, *::before {
+  box-sizing: border-box;
+}
+
+.portfolio .img {
+  height: 300px;
+  width: 300px;
+  margin: 20px;
+}
+
+.navigation ul,
+.name {
+  padding: 10px;
+  margin: auto;
+  display: inline-block;
+}
+
+.navList li {
+  display: inline-block;
+  padding: 0 10px;
+}
+
+.navList li a {
+  color: azure;
+  font-size: 22px;
+}
+
+.nav-header {
+  background-image: url("https://i.postimg.cc/DwD1R8nn/pexels-francesco-ungaro-96938.jpg");
+  background-size: cover;
+  height: 100%;
+  position: relative;
+  padding: 20px;
+  margin: 30px auto;
+}
+
+.name {
+  color: gold;
+  font-size: 22px;
+}
+
+.navigation ul {
+  float: right;
+}
+
+.header {
+  display: block;
+}
+
+section {
+  padding: 40px 0;
+}
+
+.header-nav a {
+  color: azure;
+  font-size: 20px;
+}
+
+.header-nav a {
+  border: 1px solid;
+  background-color: gold;
+  padding: 10px 20px;
+  margin: 20px auto;
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.container {
+  padding: 10px 20px;
+  margin: 30px auto;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLHNCQUFBO0FDQ0o7O0FERUE7RUFDSSxhQUFBO0VBQ0EsWUFBQTtFQUNBLFlBQUE7QUNDSjs7QURFQTs7RUFHSSxhQUFBO0VBQ0EsWUFBQTtFQUNBLHFCQUFBO0FDQUo7O0FERUE7RUFDSSxxQkFBQTtFQUNBLGVBQUE7QUNDSjs7QURFQTtFQUNJLFlBQUE7RUFDQSxlQUFBO0FDQ0o7O0FEQ0E7RUFDSSx3RkFBQTtFQUNBLHNCQUFBO0VBQ0EsWUFBQTtFQUNBLGtCQUFBO0VBQ0EsYUFBQTtFQUNBLGlCQUFBO0FDRUo7O0FEQ0E7RUFDSSxXQUFBO0VBQ0EsZUFBQTtBQ0VKOztBRENBO0VBQ0EsWUFBQTtBQ0VBOztBRENBO0VBQ0ksY0FBQTtBQ0VKOztBRENBO0VBQ0ksZUFBQTtBQ0VKOztBRENBO0VBQ0ksWUFBQTtFQUNBLGVBQUE7QUNFSjs7QURDQTtFQUNJLGlCQUFBO0VBQ0Esc0JBQUE7RUFDQSxrQkFBQTtFQUNBLGlCQUFBO0VBQ0Esa0JBQUE7RUFDQSxlQUFBO0VBQ0Esa0JBQUE7QUNFSjs7QURDQTtFQUNBLGtCQUFBO0VBQ0EsaUJBQUE7QUNFQSIsImZpbGUiOiJzdHlsZS5jc3MifQ== */
