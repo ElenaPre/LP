@@ -67,6 +67,7 @@ section {
   border-radius: 5px;
   cursor: pointer;
   text-align: center;
+  width: 200px ;
 }
 
 .header-nav h1,
@@ -115,7 +116,7 @@ section {
 
 .foto img {
   display: block;
-  height: 300px;
+  aspect-ratio: 1 / 1;
   -o-object-fit: cover;
      object-fit: cover;
   width: 100%;
@@ -134,14 +135,14 @@ section {
 }
 
 .footer {
-  display: inline-block;
+  display: block;
   position: relative;
 }
 
 .copyright {
   font-size: 12px;
-  display: inline-block;
-  margin: 0;
+  display: block;
+  margin: auto 0;
   position: absolute;
   top: 50%;
 }
